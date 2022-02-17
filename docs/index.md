@@ -18,7 +18,22 @@ We can see two eggs in the starting position, one of which is shaking on the flo
 
 ### Reflection
 
+##### Moodboard
+![](images/storyboard.jpg)
+
+##### Initial sketches
+
 ![](images/space.jpg)
 For this project, I first started with a rough sketch. I was going for a makeshift look to give off the feeling that the place was illegal. With the cracked egg and the red lighting, the scene is out of a post-apocalyptic world.
 
 ![](images/storyboard.jpg)
+
+Using the VR storyboard template, I set up the elements around the perspective of the user. Having this and the moodboard made it easier when I started making the scene in Unity. 
+Along the way, I decided to change a few aspects of the scene because of technical issues as well. I couldn't use the polybrush tool properly in order to apply the texture into the walls of the room and floor. Therefore, I decided to make the room a bit darker to stay within the theme and work around this deficiency. Next time, I'll look more into making walls properly with probuilder so that it is compatible with polybrush.
+
+##### Playtesting
+The project lives in the Unity editor. It hasn't been setup for Oculus yet, so the best way to experience this would be to play the scene and pan around the area using computer inputs. There is spatial audio in the room, so headphones would be the best way to experience the scene.
+
+### Conclusion
+
+Other than a couple of hiccups, the rest of the process went smoothly. This assignment made me more comfortable with using Unity, and this is going to make my workflow for future assignments much better.
