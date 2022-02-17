@@ -6,7 +6,7 @@ However, there are some eggs who believe that the true nature of the world is to
 
 ## Snapshots
 
-<img src="https://github.com/safal312/incubator/blob/ef18442bfe15d487aec800986f87f5d5c1eef33e/docs/images/image2.png">
+<img src="https://media.githubusercontent.com/media/safal312/incubator/main/docs/images/image2.png">
 
 <img src="https://media.githubusercontent.com/media/safal312/incubator/main/docs/images/image1.png">
 
