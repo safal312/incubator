@@ -20,7 +20,7 @@ public class BirdSoundsController : MonoBehaviour
     void Update()
     {
         float num = Random.Range(0.0f, 1.0f);
-        print(descend);
+        // print(descend);
 
         if (num <= 0.001f)
         {
@@ -28,7 +28,7 @@ public class BirdSoundsController : MonoBehaviour
         }
         else if (num <= 0.008f)
         {
-            musicVolume += 0.02f;
+            musicVolume += 0.05f;
             
         }
 
