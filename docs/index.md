@@ -19,6 +19,6 @@ We can see two eggs in the starting position, one of which is shaking on the flo
 ### Reflection
 
 ![](images/space.jpg)
-For this project, I first started with a rough sketch.
+For this project, I first started with a rough sketch. I was going for a makeshift look to give off the feeling that the place was illegal. With the cracked egg and the red lighting, the scene is out of a post-apocalyptic world.
 
 ![](images/storyboard.jpg)
