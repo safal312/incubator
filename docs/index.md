@@ -19,7 +19,7 @@ We can see two eggs in the starting position, one of which is shaking on the flo
 ### Reflection
 
 ##### Moodboard
-![](images/storyboard.jpg)
+![](images/moodboard.jpg)
 
 ##### Initial sketches
 
