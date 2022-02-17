@@ -8,7 +8,7 @@ However, there are some eggs who believe that the true nature of the world is to
 
 <img src="https://github.com/safal312/incubator/blob/ef18442bfe15d487aec800986f87f5d5c1eef33e/docs/images/image2.png">
 
-<img src="https://github.com/safal312/incubator/blob/ffbf2aa742c8843ad26b048830579e68f719e866/docs/images/image1.png">
+<img src="https://media.githubusercontent.com/media/safal312/incubator/main/docs/images/image1.png">
 
 <iframe width="967" height="544" src="https://www.youtube.com/embed/BpPMA8NXPcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
